@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ynion-mabeamae&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ynion-mabeamae&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ynion-mabeamae&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=ynion-mabeamae&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ynion-mabeamae&limit=5&theme=shadow_blue&hide_border=false&combine_all_yearly_contributions=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
