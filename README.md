@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ma. Bea Mae Ynion</h1>
+<h1 align="center">Hi 👋, I'm Ma. Bea Mae Ynion</h1> <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc2bjVuOW1rbHgycmU5cGtsNmptYWpieDd0YzZ4aXMzamV5NTBlcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oWCHCqyzKsoSLWIriE/giphy.webp" width="80" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p>
 
