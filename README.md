@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ma. Bea Mae Ynion</h1> <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc2bjVuOW1rbHgycmU5cGtsNmptYWpieDd0YzZ4aXMzamV5NTBlcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oWCHCqyzKsoSLWIriE/giphy.webp" width="80" />
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ma. Bea Mae Ynion <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc2bjVuOW1rbHgycmU5cGtsNmptYWpieDd0YzZ4aXMzamV5NTBlcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oWCHCqyzKsoSLWIriE/giphy.webp" width="80" /></h1> 
 
 
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> A IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
+   A IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
   
   1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN) <br>
      **Tech Stack:** C++ <br>
