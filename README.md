@@ -1,16 +1,17 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ma. Bea Mae Ynion <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc2bjVuOW1rbHgycmU5cGtsNmptYWpieDd0YzZ4aXMzamV5NTBlcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oWCHCqyzKsoSLWIriE/giphy.webp" width="80" /></h1> 
+<h1 align="center"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLdGXOAl9aqmB3pJkq/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5v70SvArRC2cvT31Fe/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k0jOTAeqby6hOB2ImB/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuNGhfgf3MdmsybmJt/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iUWxTgKI5TUKAiMNuJ/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sYpDQe6I2gm8Y1hv37/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fxKaHlVsVafMZC0sjK/giphy.gif" width="50" /></h1> 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p>
 
 <p align="center">
-  I'm currently a 3rd year student in Polytechnic University in Philippines Taguig Campus
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Ma. Bea Mae Ynion, I'm currently a 3rd year student in Polytechnic University in Philippines Taguig Campus.
 </p>
 
 <p align="left">
    A IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
-  
+
   1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN) <br>
      **Tech Stack:** C++ <br>
      **Role:** Programmer
