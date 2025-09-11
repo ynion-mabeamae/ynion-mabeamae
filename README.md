@@ -11,23 +11,23 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 <p align="left">
-   A IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
+  An IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
 
-  1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN) <br>
-     **Tech Stack:** C++ <br>
-     **Role:** Programmer
-  2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING) <br>
-     **Tech Stack:** COBOL <br>
-     **Role:** Programmer
-  3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) <br>
-     **Tech Stack:** PowerShell <br>
-     **Role:** Programmer
-  4. [MedAssistant](https://github.com/delima-justine/MedAssistant) <br>
-     **Tech Stack:** Java <br>
-     **Role:** Programmer/Data Administrator
-  5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404) <br>
-     **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL <br>
-     **Role:** UI/UX Designer/Developer
+  1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN)  
+    **Tech Stack:** C++  
+    **Role:** Programmer  
+  2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING)  
+    **Tech Stack:** COBOL  
+    **Role:** Programmer  
+  3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)  
+    **Tech Stack:** PowerShell  
+    **Role:** Programmer  
+  4. [MedAssistant](https://github.com/delima-justine/MedAssistant)  
+    **Tech Stack:** Java  
+    **Role:** Programmer/Data Administrator  
+  5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404)  
+    **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+    **Role:** UI/UX Designer/Developer
 </p>
 
 ---
