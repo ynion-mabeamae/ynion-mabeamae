@@ -1,6 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ma. Bea Mae Ynion</h1> <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc2bjVuOW1rbHgycmU5cGtsNmptYWpieDd0YzZ4aXMzamV5NTBlcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oWCHCqyzKsoSLWIriE/giphy.webp" width="80" />
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p>
+
+<p align="center">
+  I'm currently a 3rd year student in Polytechnic University in Philippines Taguig Campus
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> A IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
+  
+  1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN) <br>
+     **Tech Stack:** C++ <br>
+     **Role:** Programmer
+  2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING) <br>
+     **Tech Stack:** COBOL <br>
+     **Role:** Programmer
+  3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) <br>
+     **Tech Stack:** PowerShell <br>
+     **Role:** Programmer
+  4. [MedAssistant](https://github.com/delima-justine/MedAssistant) <br>
+     **Tech Stack:** Java <br>
+     **Role:** Programmer/Data Administrator
+  5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404) <br>
+     **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL <br>
+     **Role:** UI/UX Designer/Developer
+</p>
 
 ---
 ![](https://github-profile-trophy.vercel.app/?username=ynion-mabeamae&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -22,7 +48,6 @@
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 <a target="_blank" href="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" style="display: inline-block;"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify" width="42" height="40" /></a>
 <a target="_blank" href="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white" alt="JavaFX" width="40" height="40" /></a>
@@ -37,11 +62,6 @@
 <a target="_blank" href="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black" style="display: inline-block;"><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" width="40" height="40" /></a>
 <a target="_blank" href="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" width="40" height="40" /></a>
 <a target="_blank" href="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" style="display: inline-block;"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" alt="Trello" width="40" height="40" /></a>
-
----
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ynion-mabeamae/count.svg?"  />
-</div>
 
 ---
 ### ✍️ Random Dev Quote
