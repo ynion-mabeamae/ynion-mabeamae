@@ -2,8 +2,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLdGXOAl9aqmB3pJkq/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5v70SvArRC2cvT31Fe/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k0jOTAeqby6hOB2ImB/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuNGhfgf3MdmsybmJt/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iUWxTgKI5TUKAiMNuJ/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sYpDQe6I2gm8Y1hv37/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fxKaHlVsVafMZC0sjK/giphy.gif" width="50" /> <br>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ma. Bea Mae Ynion</h1> 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p>
 
 <p align="center">
@@ -23,7 +21,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     **Tech Stack:** PowerShell  
     **Role:** Programmer  
   4. [MedAssistant](https://github.com/delima-justine/MedAssistant)  
-    **Tech Stack:** Java  
+    **Tech Stack:** Java, JavaFX, MS SQL Server, Scene Builder  
     **Role:** Programmer/Data Administrator  
   5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404)  
     **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
