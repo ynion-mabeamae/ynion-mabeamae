@@ -16,36 +16,48 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <table align="center">
   <tr>
     <td align="center">
-      1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN)<br>
-    **Tech Stack:** C++<br>
-    **Role:** Programmer  
+    <p>
+      1. <a href="https://github.com/ynion-mabeamae/BOXED-IN">BOXED-IN</a><br>
+    <strong>Tech Stack:</strong> C++<br>
+    <strong>Role:</strong> Programmer  
+    </p>
     </td>
     <td align="center">
-      2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING)<br>
-    **Tech Stack:** COBOL<br>
-    **Role:** Programmer  
+    <p>
+      2. <a href="https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING">Employee Management System (File-Handling)</a><br>
+    <strong>Tech Stack:</strong> COBOL<br>
+    <strong>Role:</strong> Programmer
+    </p>
     </td>
     <td align="center">
-      3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)<br>
-    **Tech Stack:** PowerShell<br>
-    **Role:** Programmer  
+    <p>
+      3. <a href="https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI">Automated Disk Cleaner & Usage Analyzer</a><br>
+    <strong>Tech Stack:</strong> PowerShell<br>
+    <strong>Role:</strong> Programmer  
+    </p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      4. [MedAssistant](https://github.com/delima-justine/MedAssistant)<br>
-    **Tech Stack:** Java, JavaFX, MS SQL Server, Scene Builder<br>
-    **Role:** Programmer/Data Administrator 
+    <p>
+      4. <a href="https://github.com/delima-justine/MedAssistant">MedAssistant</a><br>
+    <strong>Tech Stack:</strong> Java, JavaFX, MS SQL Server, Scene Builder<br>
+    <strong>Role:</strong> Programmer/Data Administrator 
+    </p>
     </td>
     <td align="center">
-      5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404)<br>
-    **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL<br>
-    **Role:** UI/UX Designer/Developer
+    <p>
+      5. <a href="https://github.com/PUP-BSIT/project-club-404">HEYBLEEPI</a><br>
+    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, MySQL<br>
+    <strong>Role:</strong> UI/UX Designer/Developer
+    </p>
     </td>
     <td align="center">
-      6. [iBudget](https://github.com/PUP-BSIT/project-appvengers)<br>
-     **Tech Stack:** Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
-     **Role:** UI/UX Designer/Developer 
+    <p>
+      6. <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
+     <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
+     <strong>Role:</strong> UI/UX Designer/Developer 
+    </p>
     </td>
   </tr> 
 </table> 
