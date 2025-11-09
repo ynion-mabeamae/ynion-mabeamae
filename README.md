@@ -17,21 +17,25 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <tr>
     <td align="center">
     <p>
-      1. <a href="https://github.com/ynion-mabeamae/BOXED-IN">BOXED-IN</a><br>
+    <a href="https://github.com/ynion-mabeamae/BOXED-IN">BOXED-IN</a><br>
     <strong>Tech Stack:</strong> C++<br>
     <strong>Role:</strong> Programmer  
     </p>
     </td>
     <td align="center">
     <p>
-      2. <a href="https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING">Employee Management System (File-Handling)</a><br>
+    <a href="https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING">
+      Employee Management System (File-Handling)
+    </a><br>
     <strong>Tech Stack:</strong> COBOL<br>
     <strong>Role:</strong> Programmer
     </p>
     </td>
     <td align="center">
     <p>
-      3. <a href="https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI">Automated Disk Cleaner & Usage Analyzer</a><br>
+    <a href="https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI">
+      Automated Disk Cleaner & Usage Analyzer
+    </a><br>
     <strong>Tech Stack:</strong> PowerShell<br>
     <strong>Role:</strong> Programmer  
     </p>
@@ -40,21 +44,21 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <tr>
     <td align="center">
     <p>
-      4. <a href="https://github.com/delima-justine/MedAssistant">MedAssistant</a><br>
+    <a href="https://github.com/delima-justine/MedAssistant">MedAssistant</a><br>
     <strong>Tech Stack:</strong> Java, JavaFX, MS SQL Server, Scene Builder<br>
     <strong>Role:</strong> Programmer/Data Administrator 
     </p>
     </td>
     <td align="center">
     <p>
-      5. <a href="https://github.com/PUP-BSIT/project-club-404">HEYBLEEPI</a><br>
+    <a href="https://github.com/PUP-BSIT/project-club-404">HEYBLEEPI</a><br>
     <strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, MySQL<br>
     <strong>Role:</strong> UI/UX Designer/Developer
     </p>
     </td>
     <td align="center">
     <p>
-      6. <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
+    <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
      <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
      <strong>Role:</strong> UI/UX Designer/Developer 
     </p>
