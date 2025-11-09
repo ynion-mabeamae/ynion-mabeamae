@@ -141,7 +141,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer" width="40" height="40"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" width="50" height="50"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" width="40" height="40"/>
