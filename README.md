@@ -5,7 +5,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p>
 
 <p align="center">
-  I'm currently a 3rd year student in Polytechnic University in Philippines Taguig Campus.
+  I'm currently a 3rd-year student at Polytechnic University in the Philippines Taguig Campus.
 </p>
 
 <p align="left">
