@@ -9,24 +9,48 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 <p align="left">
-  An IT student with a passion for learning and creating innovative solutions through coding. I enjoy exploring new technologies and collaborating on exciting projects.
-
-  1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN)  
-    **Tech Stack:** C++  
-    **Role:** Programmer  
-  2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING)  
-    **Tech Stack:** COBOL  
-    **Role:** Programmer  
-  3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)  
-    **Tech Stack:** PowerShell  
-    **Role:** Programmer  
-  4. [MedAssistant](https://github.com/delima-justine/MedAssistant)  
-    **Tech Stack:** Java, JavaFX, MS SQL Server, Scene Builder  
-    **Role:** Programmer/Data Administrator  
-  5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404)  
-    **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-    **Role:** UI/UX Designer/Developer
+  An IT student with a passion for learning and creating innovative solutions through coding. 
+  I enjoy exploring new technologies and collaborating on exciting projects.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      1. [BOXED-IN](https://github.com/ynion-mabeamae/BOXED-IN)<br>
+    **Tech Stack:** C++<br>
+    **Role:** Programmer  
+    </td>
+    <td align="center">
+      2. [Employee Management System (File-Handling)](https://github.com/ynion-mabeamae/COBOL-FILE-HANDLING)<br>
+    **Tech Stack:** COBOL<br>
+    **Role:** Programmer  
+    </td>
+    <td align="center">
+      3. [Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)<br>
+    **Tech Stack:** PowerShell<br>
+    **Role:** Programmer  
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      4. [MedAssistant](https://github.com/delima-justine/MedAssistant)<br>
+    **Tech Stack:** Java, JavaFX, MS SQL Server, Scene Builder<br>
+    **Role:** Programmer/Data Administrator 
+    </td>
+    <td align="center">
+      5. [HEYBLEEPI](https://github.com/PUP-BSIT/project-club-404)<br>
+    **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL<br>
+    **Role:** UI/UX Designer/Developer
+    </td>
+    <td align="center">
+      6. [iBudget](https://github.com/PUP-BSIT/project-appvengers)<br>
+     **Tech Stack:** Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
+     **Role:** UI/UX Designer/Developer 
+    </td>
+  </tr> 
+</table> 
+
+
 
 ---
 ![](https://nirzak-streak-stats.vercel.app/?user=ynion-mabeamae&theme=shadow_blue&hide_border=false)
@@ -35,9 +59,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_baexoxyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_baexoxyn_" height="30" width="40" /></a>
-<a href="https://fb.com/_baexmynx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_baexmynx_" height="30" width="40" /></a>
-<a href="https://instagram.com/_baexoxyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_baexoxyn_" height="30" width="40" /></a>
+<a href="https://twitter.com/_baexoxyn_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_baexoxyn_" height="30" width="40" /></a>
+<a href="https://fb.com/_baexmynx_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_baexmynx_" height="30" width="40" /></a>
+<a href="https://instagram.com/_baexoxyn_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_baexoxyn_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ma-bea-mae-ynion-b8263a357" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ma-bea-mae-ynion-b8263a357" height="30" width="40" /></a>
 </p>
 
 ---
