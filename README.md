@@ -8,10 +8,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   I'm currently a 3rd-year student at Polytechnic University in the Philippines Taguig Campus.
 </p>
 
-<p align="left">
+<!-- <p align="left">
   An IT student with a passion for learning and creating innovative solutions through coding. 
   I enjoy exploring new technologies and collaborating on exciting projects.
-</p>
+</p> -->
 
 <table align="center">
   <tr>
