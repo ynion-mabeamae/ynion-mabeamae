@@ -59,7 +59,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <td align="center">
       <p>
         <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
-        <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
+        <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java (Spring Boot)<br>
         <strong>Role:</strong> UI/UX Designer/Developer 
       </p>
     </td>
@@ -75,7 +75,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <td align="center">
       <p>
         <a href="https://github.com/PUPT-Quantum-Leap/capstone-nlcom-volunteer-management-system.git">ServeTrack</a><br>
-        <strong>Tech Stack:</strong> Angular, TypeScript, Laravel, MySQL<br>
+        <strong>Tech Stack:</strong> Angular, TypeScript, Laravel, Node.js, MySQL<br>
         <strong>Role:</strong> Front-End Developer
       </p>
     </td>
