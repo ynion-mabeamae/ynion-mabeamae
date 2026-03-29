@@ -68,14 +68,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <td align="center">
       <p>
         <a href="https://github.com/delima-justine/project-codego.git">ResQ PH</a><br>
-        <strong>Tech Stack:</strong> Kotlin<br>
+        <strong>Tech Stack:</strong> Kotlin, SQLite<br>
         <strong>Role:</strong> UI/UX Designer/Developer
       </p>
     </td>
     <td align="center">
       <p>
         <a href="https://github.com/PUPT-Quantum-Leap/capstone-nlcom-volunteer-management-system.git">ServeTrack</a><br>
-        <strong>Tech Stack:</strong> Angular, TypeScript, Laravel<br>
+        <strong>Tech Stack:</strong> Angular, TypeScript, Laravel, MySQL<br>
         <strong>Role:</strong> Front-End Developer
       </p>
     </td>
