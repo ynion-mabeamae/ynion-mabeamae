@@ -1,20 +1,38 @@
-<h1 align="center"> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLdGXOAl9aqmB3pJkq/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5v70SvArRC2cvT31Fe/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k0jOTAeqby6hOB2ImB/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuNGhfgf3MdmsybmJt/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iUWxTgKI5TUKAiMNuJ/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sYpDQe6I2gm8Y1hv37/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fxKaHlVsVafMZC0sjK/giphy.gif" width="50" /> <br>
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ma. Bea Mae Ynion
-<br>
-  Aspiring Web Developer
-</h1> 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" /> </p> 
+# Hi, I'm <span style="color:#0e75b6">Ma. Bea Mae Ynion</span>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;UI%2FUX+%7C+Front-End+Enthusiast;Information+Technology+Student%40PUP-Taguig;Turning+ideas+into+reality+through+code)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  I'm currently a 3rd-year student at Polytechnic University in the Philippines Taguig Campus.
+  <img src="https://komarev.com/ghpvc/?username=ynion-mabeamae&label=Profile%20views&color=0e75b6&style=flat" alt="ynion-mabeamae" />
 </p>
 
-<p align="left">
-  An IT student with a passion for building user-friendly applications and learning new technologies. 
-  I love turning ideas into reality through code and collaborating on meaningful projects.
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ynion.mabeamae%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xynion.mabeamae@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ynion--mabeamae-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ynion-mabeamae)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bea-web-portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://bea-web-portfolio.vercel.app/)
+
+</div>
+
+---
+
+## About Me
+
+<p align="center">
+  Information Technology student at <b>Polytechnic University of the Philippines - Taguig Campus</b>.
 </p>
+
+> An IT student with a passion for building user-friendly applications and learning new technologies.
+> I love turning ideas into reality through code and collaborating on meaningful projects.
+> Currently exploring **web development** — from clean UIs to the logic behind them.
+
+---
+
+## Featured Projects
 
 <table align="center">
   <tr>
@@ -22,7 +40,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       <p>
         <a href="https://github.com/ynion-mabeamae/BOXED-IN">BOXED-IN</a><br>
         <strong>Tech Stack:</strong> C++<br>
-        <strong>Role:</strong> Programmer  
+        <strong>Role:</strong> Programmer
       </p>
     </td>
     <td align="center">
@@ -40,7 +58,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
           Automated Disk Cleaner & Usage Analyzer
         </a><br>
         <strong>Tech Stack:</strong> PowerShell<br>
-        <strong>Role:</strong> Programmer  
+        <strong>Role:</strong> Programmer
       </p>
     </td>
   </tr>
@@ -49,7 +67,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       <p>
         <a href="https://github.com/delima-justine/MedAssistant">MedAssistant</a><br>
         <strong>Tech Stack:</strong> Java, JavaFX, MS SQL Server, Scene Builder<br>
-        <strong>Role:</strong> Programmer/Data Administrator 
+        <strong>Role:</strong> Programmer/Data Administrator
       </p>
     </td>
     <td align="center">
@@ -63,10 +81,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       <p>
         <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
         <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java (Spring Boot)<br>
-        <strong>Role:</strong> UI/UX Designer/Developer 
+        <strong>Role:</strong> UI/UX Designer/Developer
       </p>
     </td>
-  </tr> 
+  </tr>
   <tr>
     <td align="center">
       <p>
@@ -83,30 +101,27 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       </p>
     </td>
   </tr>
-</table> 
+</table>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
+
+## Languages
+
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-      </a>
-    </td>
     <td align="center">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -120,22 +135,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       </a>
     </td>
     <td align="center">
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -152,8 +160,20 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       </a>
     </td>
     <td align="center">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Tools and Frameworks
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -162,8 +182,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       </a>
     </td>
     <td align="center">
-      <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -172,8 +197,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
       </a>
     </td>
     <td align="center">
-      <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
+      <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -181,29 +206,40 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
+
+## GitHub Stats
+
 <div align="center">
-<img src=https://nirzak-streak-stats.vercel.app/?user=ynion-mabeamae&theme=shadow_blue&hide_border=false)" height="150" alt="streak graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynion-mabeamae&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"/>
+<img src="https://streak-stats.demolab.com/?user=ynion-mabeamae&theme=transparent&hide_border=true&date_format=M+j%5B%2CY%5D&card_width=420" height="150" alt="streak graph"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ynion-mabeamae&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"/>
 </div>
 
 ---
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
+<!-- ---
+
 [![](https://visitcount.itsvg.in/api?id=ynion-mabeamae&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLdGXOAl9aqmB3pJkq/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5v70SvArRC2cvT31Fe/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k0jOTAeqby6hOB2ImB/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuNGhfgf3MdmsybmJt/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iUWxTgKI5TUKAiMNuJ/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sYpDQe6I2gm8Y1hv37/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2YWsyYjJlaXlrb2V2bXF2OWVtZnZrcWc2MGRzYmtxems0djg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fxKaHlVsVafMZC0sjK/giphy.gif" width="50" /> <br>
+</h1> 
