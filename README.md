@@ -14,7 +14,7 @@
 
 [![Email](https://img.shields.io/badge/Email-ynion.mabeamae%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xynion.mabeamae@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ynion--mabeamae-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ynion-mabeamae)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bea-web-portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://bea-web-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bea__web__portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://bea-web-portfolio.vercel.app/)
 
 </div>
 
